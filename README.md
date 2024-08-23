@@ -73,6 +73,4 @@ Before using the `getReward()` function, transfer the reward token to the stakin
    ```bash
    npm run dev
    ```
-## Contact
-For any questions or inquiries, feel free to reach out to [Kshitij] at [https://twitter.com/KshitijWeb3].
 ---
